@@ -12,6 +12,10 @@ namespace _15_Fatorial
         {
 
             /*
+                Programa para calcular e mostrar o fatorial de 0 até 10.
+                O programa deverá exibir cada número envolvido na multiplicação
+                de cada fatorial, conforme exemplo abaixo:
+
                 0! = 1
                 1! = 1
                 2! = 2 · 1 = 2
